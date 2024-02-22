@@ -1,16 +1,16 @@
-### Hi there 👋
+Лидер команды разработки, FullStack разработчик
 
-<!--
-**Raerten/Raerten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Текущие должности
 
-Here are some ideas to get you started:
+CIO в UniPlug \
+TeamLead в MAY24
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Интересы
+#laravel\
+#php\
+#vuejs\
+#nuxt\
+#golang\
+#devops\
+#docker \
+#упрааление командой
