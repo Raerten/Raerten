@@ -2,15 +2,15 @@
 
 #### Текущие должности
 
-CIO в UniPlug \
-TeamLead в MAY24
+Engineering Manager & Lead at okolo.market \
+CIO в UniPlug
 
 #### Интересы
+#упрааление командой\
 #laravel\
 #php\
 #vuejs\
 #nuxt\
 #golang\
 #devops\
-#docker \
-#упрааление командой
+#docker
