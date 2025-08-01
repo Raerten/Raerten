@@ -3,7 +3,7 @@
 #### Текущие должности
 
 Engineering Manager & Lead at okolo.market \
-CIO в UniPlug
+CIO at UniPlug
 
 #### Интересы
 #упрааление командой\
