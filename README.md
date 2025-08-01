@@ -13,4 +13,6 @@ CIO at UniPlug
 #nuxt\
 #golang\
 #devops\
-#docker
+#docker\
+#git\
+#godot
